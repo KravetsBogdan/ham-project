@@ -9,6 +9,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
+    min-width: 1200px;
 }
 
 .active {
